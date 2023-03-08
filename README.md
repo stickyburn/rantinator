@@ -12,4 +12,10 @@
 
 ✅ 💲💲
 
+## Roadmap
+
+- [ ] Release v1
+
+- [ ] Optimize data fetching
+
 ### Dataset taken with love from [linusrants](https://github.com/corollari/linusrants)
